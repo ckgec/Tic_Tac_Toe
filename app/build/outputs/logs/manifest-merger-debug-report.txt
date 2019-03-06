@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\500df8c6c57e844701dac2cbdd366261\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bd8f40aae3963fb2b2d77ac819b8d6d3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c321598db679297faf5da893741d3bbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\316fdb8858715a21f373081986ee3eb9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\eee54731881cf87baf41b6732772a881\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3a334bdcf19c8849647a3a3aace46b50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\252eed93f7516a6fc89066235b4bf63a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a637d886b17197680792fe12a6897b95\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\585ba6476375147bd6fd6c4823d11bab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9c480833098541cdc8db7e4733a61d5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2e89c685a5d61fb71f53368063210ce6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\712fd37bba311087f1420e61d549599d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\72e9f13b5c25b32bbdf59d71e244a66c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\718f213a840202aff86c81fa25f47613\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0cabaee10dbccdce5c76810d5c80dd21\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\fa12b8c94cf2b56f1f1aa995bf0b100b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\195ff51c62d2796212c0799fa5b670c7\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f2ee1a8fae9c07ee50a08da0ca8cfbed\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\da1cd0f9d2b167cfb53fb64410ae40c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c7729836200a9218afcebc2d5c9cbbbd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d23cab43aef4807dad3cdc74b9b15674\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1f270e2aba8ccbdd5a33b6550bbb12dc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\884d8027234bca4e5d7767f30d97ba18\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e97d2ec894adb97e97eba11ad6f7c60d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\389519b97426d9d17677cadae631807c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4adecd97fe4b788dfd054f4bd24bc94f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\099532f0582783c9abe5e06d5b74b87c\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bd8f40aae3963fb2b2d77ac819b8d6d3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bd8f40aae3963fb2b2d77ac819b8d6d3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\fa12b8c94cf2b56f1f1aa995bf0b100b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\fa12b8c94cf2b56f1f1aa995bf0b100b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\195ff51c62d2796212c0799fa5b670c7\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\195ff51c62d2796212c0799fa5b670c7\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\fa12b8c94cf2b56f1f1aa995bf0b100b\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.tic_toe.About
+ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:12:9-13:67
+	android:parentActivityName
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:13:13-55
+	android:name
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:12:19-40
+activity#com.example.tic_toe.MainActivity
+ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\500df8c6c57e844701dac2cbdd366261\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\500df8c6c57e844701dac2cbdd366261\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bd8f40aae3963fb2b2d77ac819b8d6d3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\bd8f40aae3963fb2b2d77ac819b8d6d3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c321598db679297faf5da893741d3bbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\c321598db679297faf5da893741d3bbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\316fdb8858715a21f373081986ee3eb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\316fdb8858715a21f373081986ee3eb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\eee54731881cf87baf41b6732772a881\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\eee54731881cf87baf41b6732772a881\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3a334bdcf19c8849647a3a3aace46b50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\3a334bdcf19c8849647a3a3aace46b50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\252eed93f7516a6fc89066235b4bf63a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\252eed93f7516a6fc89066235b4bf63a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a637d886b17197680792fe12a6897b95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\a637d886b17197680792fe12a6897b95\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\585ba6476375147bd6fd6c4823d11bab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\585ba6476375147bd6fd6c4823d11bab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9c480833098541cdc8db7e4733a61d5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\9c480833098541cdc8db7e4733a61d5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2e89c685a5d61fb71f53368063210ce6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2e89c685a5d61fb71f53368063210ce6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\712fd37bba311087f1420e61d549599d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\712fd37bba311087f1420e61d549599d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\72e9f13b5c25b32bbdf59d71e244a66c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\72e9f13b5c25b32bbdf59d71e244a66c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\718f213a840202aff86c81fa25f47613\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\718f213a840202aff86c81fa25f47613\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0cabaee10dbccdce5c76810d5c80dd21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\0cabaee10dbccdce5c76810d5c80dd21\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\fa12b8c94cf2b56f1f1aa995bf0b100b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\fa12b8c94cf2b56f1f1aa995bf0b100b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\195ff51c62d2796212c0799fa5b670c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\195ff51c62d2796212c0799fa5b670c7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f2ee1a8fae9c07ee50a08da0ca8cfbed\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\f2ee1a8fae9c07ee50a08da0ca8cfbed\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\da1cd0f9d2b167cfb53fb64410ae40c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\da1cd0f9d2b167cfb53fb64410ae40c0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c7729836200a9218afcebc2d5c9cbbbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c7729836200a9218afcebc2d5c9cbbbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d23cab43aef4807dad3cdc74b9b15674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\d23cab43aef4807dad3cdc74b9b15674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1f270e2aba8ccbdd5a33b6550bbb12dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\1f270e2aba8ccbdd5a33b6550bbb12dc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\884d8027234bca4e5d7767f30d97ba18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\884d8027234bca4e5d7767f30d97ba18\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e97d2ec894adb97e97eba11ad6f7c60d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\e97d2ec894adb97e97eba11ad6f7c60d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\389519b97426d9d17677cadae631807c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\389519b97426d9d17677cadae631807c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4adecd97fe4b788dfd054f4bd24bc94f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\4adecd97fe4b788dfd054f4bd24bc94f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\099532f0582783c9abe5e06d5b74b87c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\lenovo\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\099532f0582783c9abe5e06d5b74b87c\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\lenovo\Documents\Tic_Toe\app\src\main\AndroidManifest.xml
